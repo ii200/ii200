@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Senior Full-stack Dev from Siberia. 
+- 👋 Hi, I’m Full-stack Dev from Siberia. 
